@@ -2,6 +2,8 @@
 
 Automate the creation of scheduled events on Discord servers effortlessly.
 
+I originally made this for raiding a discord server thru spamming events and i decided to upload it to GitHub.
+
 ![EventSpammer](https://i.imgur.com/9z0Y1Po.jpg)
 
 ## Introduction
