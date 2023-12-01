@@ -1,0 +1,41 @@
+{
+  "url": "https://discord.com/api/v9/guilds/server_id_here/scheduled-events",
+  
+  "payload": {
+    "name": "Event Name",
+    "description": "Event Description or Link",
+    "privacy_level": 2,
+    "scheduled_start_time": "2023-12-01T10:59:00.769Z",
+    "scheduled_end_time": "2024-12-01T21:45:00.000Z",
+    "entity_type": 3,
+    "channel_id": null,
+    "entity_metadata": {
+      "location": "Event Location"
+    },
+    "broadcast_to_directory_channels": false,
+    "recurrence_rule": null
+  },
+  
+  "headers": {
+    "cookie": "__cfruid=97d9225fa9abd3aaccf7c3e1d122f925133194dd-1701385106; _cfuvid=bne_Ax01ZrSGBx16KwLEt1v91QzcojainGgEiZNZfxI-1701385106962-0-604800000",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Content-Type": "application/json",
+    "Authorization": "your_token_here",
+    "X-Super-Properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiRmlyZWZveCIsImRldmljZSI6IiIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wKChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMC4wIiwiYnJvd3Nlcl92ZXJzaW9uIjoiMTIwLjAiLCJvc192ZXJzaW9uIjoiMTAiLCJyZWZlcnJlciI6IiIsInJlZmVycmluZ19kb21haW4iOiIiLCJyZWZlcnJlcl9jdXJyZW50IjoiIiwicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwiY2xpZW50X2J1aWxkX251bWJlciI6MjUwMjk5LCJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsLCJkZXNpZ25faWQiOjB9",
+    "X-Discord-Locale": "en-US",
+    "X-Discord-Timezone": "Europe/Bucharest",
+    "X-Debug-Options": "bugReporterEnabled",
+    "Origin": "https://discord.com",
+    "DNT": "1",
+    "Sec-GPC": "1",
+    "Connection": "keep-alive",
+    "Referer": "https://discord.com/channels/server_id/server_id",
+    "Cookie": "__dcfduid=8e425360903211ee8a1663e52be0c083; __sdcfduid=8e425361903211ee8a1663e52be0c08305e299e7a65a7f10433d7421b92f807e34cf101eb107e75294533897fd84b6d5; __cfruid=7193f83cfde594d915e53bd5ab5e6a7563aa74b6-1701425730; _cfuvid=1VZrajwIpgL4GYgfjz7.1CO9..f4TPJcpCHxoSN_OmE-1701425730460-0-604800000; cf_clearance=ATPc2lB5eC9gjBn9PCWVwNq.eWKJyi5Wj6IuM5gTBCk-1701425733-0-1-37cc57e9.7e00605.60cd0809-0.2.1701425733",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin"
+  }
+}
