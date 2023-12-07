@@ -36,7 +36,7 @@ Simply execute the program after configuring `config.json` — it's **that** eas
 
 **EventSpammer** © 2023+, NotClavilux. Released under the [MIT License]. Authored and maintained by NotClavilux.
 
-> Website [Feds.lol](https://feds.lol/NotClavilux) &nbsp;&middot;&nbsp;
+> Website [Bio-link](https://notclavilux.vercel.app) &nbsp;&middot;&nbsp;
 > GitHub [NotClavilux](https://github.com/NotClavilux) &nbsp;&middot;&nbsp;
 
 [MIT License]: https://opensource.org/licenses/MIT
